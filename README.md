@@ -1,2 +1,2 @@
 # MyProjects
-This repo has all the Data science, ML projects I have worked on . 
+This repo has some of  the Data science, ML projects I have worked on . 
